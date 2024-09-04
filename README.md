@@ -18,7 +18,7 @@ To run this repository, please follow the steps below:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jinsuyoo/simple-stereo.git
+    https://github.com/JamunaSMurthy/stereo-depth.git
     ```
 
 2. Navigate to the project directory:
