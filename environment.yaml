@@ -1,0 +1,17 @@
+name: simplestereo
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8.19
+  - pytorch=1.13.1
+  - torchvision=0.14.1
+  - cudatoolkit=11.6
+  - numpy
+  - matplotlib
+  - imageio
+  - tqdm
+  - opencv
+  - scipy
+  - scikit-image
